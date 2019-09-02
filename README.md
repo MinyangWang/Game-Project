@@ -1,5 +1,5 @@
 # Game-Project<br/>
-Tank Game <br/>   
+Tank Game <br/>
 https://www.bilibili.com/video/av58657596/ <br/>
 ⚫ Developed a 3D Tank Battle Game which allows player to control a tank throughout the game session<br/>
 ⚫ Designed environment layout and painted landscape with all functionalities incorporated with Unreal Game Engine<br/> 
